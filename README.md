@@ -1,2 +1,2 @@
-# UnionCom2.0
+# UnionCom2
 New fast and efficient version of UnionCom for topological alignment
